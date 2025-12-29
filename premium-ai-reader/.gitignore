@@ -1,0 +1,12 @@
+# Dependencias de Node (son muy pesadas, se instalan auto)
+node_modules/
+
+# Archivos de entorno (seguridad)
+.env
+
+# Archivos del sistema operativo (basura)
+.DS_Store
+Thumbs.db
+
+# Logs de errores
+npm-debug.log
